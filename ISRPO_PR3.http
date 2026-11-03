@@ -1,0 +1,6 @@
+@ISRPO_PR3_HostAddress = http://localhost:5135
+
+GET {{ISRPO_PR3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
